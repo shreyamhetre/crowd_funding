@@ -42,17 +42,18 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
 
 
-Crowd Funding DApp
-Overview
+## Crowd Funding DApp
+## Overview
 Crowd Funding DApp is a decentralized crowdfunding platform built on the Ethereum blockchain using the thirdweb SDK. It allows users to create, browse, and contribute to fundraising campaigns securely and transparently. The platform leverages smart contracts to ensure trustless transactions, eliminating intermediaries and enhancing transparency for backers and campaign creators.
-Objectives
+---
+## Objectives
 
 Enable users to create crowdfunding campaigns with customizable goals, titles, and descriptions.
 Allow global contributions to campaigns using Ethereum via MetaMask.
 Ensure transparency through blockchain-based transaction records.
 Provide a user-friendly interface for browsing and donating to campaigns.
 Maintain security and decentralization using Ethereum smart contracts.
-
+---
 Features
 
 Campaign Creation: Users can create campaigns by specifying a title, description, funding goal, and optional image.
